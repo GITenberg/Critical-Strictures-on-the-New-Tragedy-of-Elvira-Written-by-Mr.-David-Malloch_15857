@@ -1,0 +1,39 @@
+_repo: Critical-Strictures-on-the-New-Tragedy-of-Elvira-Written-by-Mr.-David-Malloch_15857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Erskine, Andrew
+    birthdate: 1739
+    deathdate: 1793
+    gutenberg_agent_id: '6342'
+    url: http://www.gutenberg.org/2009/agents/6342
+  - agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+  - agent_name: Dempster, George
+    birthdate: 1732
+    deathdate: 1818
+    gutenberg_agent_id: '6343'
+    url: http://www.gutenberg.org/2009/agents/6343
+    wikipedia: http://en.wikipedia.org/wiki/George_Dempster_(lawyer)
+description: Augustan Reprint Society, publication number 35
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15857'
+  lccn: '53000016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mallet, David, 1705?-1765. Elvira'
+title: Critical Strictures on the New Tragedy of Elvira, Written by Mr. David Malloch
+url: http://www.gutenberg.org/ebooks/15857
