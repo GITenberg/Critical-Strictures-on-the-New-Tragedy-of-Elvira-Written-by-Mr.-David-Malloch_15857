@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6343
     wikipedia: http://en.wikipedia.org/wiki/George_Dempster_(lawyer)
 description: Augustan Reprint Society, publication number 35
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15857#Critical-Strictures-on-the-New-Tragedy-of-Elvira-Written-by-Mr.-David-Malloch
 gutenberg_issued: '2005-05-18'
 gutenberg_type: Text
 identifiers:
